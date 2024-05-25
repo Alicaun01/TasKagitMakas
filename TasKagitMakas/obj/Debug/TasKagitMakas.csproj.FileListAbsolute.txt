@@ -1,0 +1,10 @@
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.AssemblyReference.cache
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+D:\visualstudioPROJELERİM\TasKagitMakas\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
